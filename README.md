@@ -25,4 +25,4 @@ Disadvantages of Tcl/Tk
 - Install the Perl module Tcl::pTK: I do `cpanm Tcl::pTk`
 
 To test that everything works fine, simply start the Demo widget. Open a terminal and digit `widgetTclpTk`. 
-![demo Widgets](screenshots/demoWIN_.png?raw=true "demo Widgets")
+![demo Widgets](screenshots/demoWINs.png?raw=true "demo Widgets")
