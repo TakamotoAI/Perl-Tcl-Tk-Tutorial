@@ -13,7 +13,7 @@ Advantages of Tcl/Tk
 
 Disadvantages of Tcl/Tk
 
-- Binding for Perl (Tcl::pTk) seems not to be used very much, so not a big community to help (but responsibe module mantainer!)
+- Binding for Perl (Tcl::pTk) seems not to be used very much, so not a big community to help (but very responsive module mantainer!)
 - As a consequence of the previous point, not many info around
 - You need to install Tcl/Tk separately (different to Perl/Tk which is just a normal Perl module), and learn how to deploy it in an application if you are gonna to distribute it
 
@@ -25,4 +25,4 @@ Disadvantages of Tcl/Tk
 - Install the Perl module Tcl::pTK: I do `cpanm Tcl::pTk`
 
 To test that everything works fine, simply start the Demo widget. Open a terminal and digit `widgetTclpTk`. 
-![demo Widgets](screenshots/demoWINs.png?raw=true "demo Widgets")
+
