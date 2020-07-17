@@ -8,7 +8,7 @@ Let's start with some advantages/disadvantages of Perl + Tcl/Tk over Perl/Tk.
 Advantages of Tcl/Tk
 
 - It runs on Windows, macOS, and Linux and it looks modern (native)
-- It is actively mantained (look [here] (https://core.tcl-lang.org/tk/reportlist). For example Tk was recently adapted for macOS Mojave/Catalina.
+- It is actively mantained (https://core.tcl-lang.org/tk/reportlist). For example Tk was recently adapted for macOS Mojave/Catalina.
 - It is the basic GUI toolkit of Python, so it has a large number of users
 
 Disadvantages of Tcl/Tk
