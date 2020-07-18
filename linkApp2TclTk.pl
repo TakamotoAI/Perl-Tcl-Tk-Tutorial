@@ -38,6 +38,7 @@ BEGIN {
     }
 }
 
+#The following is just a demo GUI to see the linking to a custom Tcl/Tk binary. It also prints some information about it.
 use Tcl::pTk;
 my $mw  = MainWindow->new();
 
