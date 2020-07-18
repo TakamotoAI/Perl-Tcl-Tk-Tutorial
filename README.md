@@ -12,7 +12,7 @@ Advantages of Tcl/Tk
 - It is the basic GUI toolkit of Python, so it has a large number of users
 - Similar/Same syntax as Perl/Tk
 
-Disadvantages of Tcl/Tk https://metacpan.org/pod/pp
+Disadvantages of Tcl/Tk
 
 - Binding for Perl (Tcl::pTk) seems not to be used very much, so not a big community to help (but very responsive module mantainer!)
 - As a consequence of the previous point, not many info around
@@ -26,14 +26,14 @@ In a nutshell, the GUI application will be packed in an executable using [pp](ht
 - Install the latest binary Tcl/Tk distribution, for example [BAWT](http://www.bawt.tcl3d.org/). This will install Tcl/Tk in C:
 - Install the Perl module Tcl (needed by Tcl::pTk to communicate with the Tcl/Tk installation): I use `cpanm Tcl`
 - Install the Perl module [Tcl::pTk](https://metacpan.org/release/Tcl-pTk): I use `cpanm Tcl::pTk`
-- Install the Perl module [pp] (https://metacpan.org/pod/pp) in order to create an executable of your Perl program: I use `cpanm pp`
+- Install the Perl module [pp](https://metacpan.org/pod/pp) in order to create an executable of your Perl program: I use `cpanm pp`
 
 ### macOS
-- Install a recent version of Perl. I use: [Perlbrew] (http://www.perlbrew.pl)
+- Install a recent version of Perl. I use: [Perlbrew](http://www.perlbrew.pl)
 - Tcl/Tk (obsolete version) is already installed on most macOS. For the purpose of the next steps, this old version will suffice
 - Install the Perl module Tcl (needed by Tcl::pTk to communicate with the Tcl/Tk installation): I use `cpanm Tcl`
 - Install the Perl module [Tcl::pTk](https://metacpan.org/release/Tcl-pTk): I use `cpanm Tcl::pTk`
-- Install the Perl module [pp] (https://metacpan.org/pod/pp) in order to create an executable of your Perl program: I use `cpanm pp`
+- Install the Perl module [pp](https://metacpan.org/pod/pp) in order to create an executable of your Perl program: I use `cpanm pp`
 
 ### Explore Tcl/Tk from Perl
 To test that Perl can use the installed version of Tcl/Tk, simply start the Demo widget. Open a terminal and digit `widgetTclpTk`. If a demo widget is shown, Perl is now using Tk of the Tcl/Tk installation. 
