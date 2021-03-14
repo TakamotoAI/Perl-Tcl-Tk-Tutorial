@@ -18,7 +18,7 @@ Disadvantages of Tcl/Tk
 - As a consequence of the previous point, not many info around
 - You need to install Tcl/Tk separately (different to Perl/Tk which is just a normal Perl module), and learn how to deploy it in an application if you are gonna to distribute it
 
-In a nutshell, the GUI application will be packed in an executable using [pp](https://metacpan.org/pod/pp) and will be distributed/shipped togheter with the Tcl/Tk binary. In developement we mimick the structure of the final App. For developement th structure of our App will be the same for Windows and macOS. The deployment will require a slighlty adaptation of the folder structure.
+In a nutshell, the GUI application will be packed in an executable using [pp](https://metacpan.org/pod/pp) and will be distributed/shipped togheter with the Tcl/Tk binary. In developement we mimick the structure of the final App. For developement the structure of our App will be the same for Windows and macOS. The deployment will require a slighlty adaptation of the folder structure.
 
 ## Installation
 ### Windows
